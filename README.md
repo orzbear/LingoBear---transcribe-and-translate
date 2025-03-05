@@ -24,8 +24,8 @@ This repository showcases my **AI-driven transcription and translation** project
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/orzbear/LingoBear---transcribe-and-translate.git
+   cd LingoBear---transcribe-and-translate
    ```
 2. Install dependencies  
    ```bash
